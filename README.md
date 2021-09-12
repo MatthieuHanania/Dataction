@@ -25,6 +25,10 @@ Then the location are saved on a map
 
 ![map](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/points%20on%20a%20map.png)
 
+We can also see a list of all points
+
+![list](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/list.png)
+
 ## Want to try It ? 
 
 We used Python 3.8.XX, Django, Pillow, numpy, tensorflow 
