@@ -25,6 +25,15 @@ Then the location are saved on a map
 
 ![map](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/points%20on%20a%20map.png)
 
+## Want to try It ? 
+
+We used Python 3.8.XX, Django, Pillow, numpy, tensorflow 
+Then go in the main file and do 
+
+```bash
+python manage.py runserver
+```
+Then , the main page is **http://127.0.0.1:8000/dataction/**.
 
 ## The Team
 
