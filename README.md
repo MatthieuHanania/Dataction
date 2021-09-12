@@ -31,7 +31,8 @@ We can also see a list of all points
 
 ## Want to try It ? 
 
-We used Python 3.8.XX, Django, Pillow, numpy, tensorflow 
+We used Python 3.8.XX, Django, Pillow, numpy, tensorflow.
+
 Then go in the main file and do 
 
 ```bash
