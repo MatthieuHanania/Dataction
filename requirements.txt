@@ -1,0 +1,6 @@
+Django
+Pillow
+numpy
+tensorflow
+Pillow
+six
