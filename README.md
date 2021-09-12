@@ -1,4 +1,4 @@
-![Logo](https://github.com/MatthieuHanania/Dataction/blob/main/presentation/logo.png)
+![Logo](https://github.com/MatthieuHanania/Dataction/blob/main/presentation/front.png)
 # Dataction
 With a team, we build an artificial inteligence that detect some platic in a picture
 
