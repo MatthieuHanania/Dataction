@@ -14,15 +14,16 @@ Finaly, we build a website using **Django**
 
 We can submit a picture
 
-![submit](https://github.com/MatthieuHanania/Dataction/blob/main/presentation/loading.png)
+![submit](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/loading.png)
+
 
 And the AI will frame the plastic in the picture
 
-![result](https://github.com/MatthieuHanania/Dataction/blob/main/presentation/bouteille.PNG)
+![result](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/bouteille.PNG)
 
 Then the location are saved on a map
 
-![map](https://github.com/MatthieuHanania/Dataction/blob/main/presentation/points%20on%20a%20map.png)
+![map](https://github.com/MatthieuHanania/Dataction/blob/master/presentation/points%20on%20a%20map.png)
 
 
 ## The Team
